@@ -7,7 +7,7 @@ abstract: |
         conformant Information Packages. The profile is accompanied with a
         textual document explaining the details of use of this profile.
         This will enable repository interoperability and assist in the
-        management of the preservation of digital content.
+        management of the preservation of digital content. My unwanted edit.
         This profile is a base profile which is extended with E-ARK
         implementation of SIP, AIP and DIP. The profile can be used as is, but
         it is recommended that the supplied extending implementation are used.
